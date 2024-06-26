@@ -1,0 +1,18 @@
+[21-Jun-2024 09:34:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ewigeli2_facialrec'@'localhost' to database 'attendance_system' in /home/ewigeli2/public_html/fr/includes/config.php:19
+Stack trace:
+#0 /home/ewigeli2/public_html/fr/includes/config.php(19): mysqli->__construct()
+#1 /home/ewigeli2/public_html/fr/index.php(3): require('/home/ewigeli2/...')
+#2 {main}
+  thrown in /home/ewigeli2/public_html/fr/includes/config.php on line 19
+[21-Jun-2024 09:34:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ewigeli2_facialrec'@'localhost' to database 'attendance_system' in /home/ewigeli2/public_html/fr/includes/config.php:19
+Stack trace:
+#0 /home/ewigeli2/public_html/fr/includes/config.php(19): mysqli->__construct()
+#1 /home/ewigeli2/public_html/fr/index.php(3): require('/home/ewigeli2/...')
+#2 {main}
+  thrown in /home/ewigeli2/public_html/fr/includes/config.php on line 19
+[21-Jun-2024 09:37:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ewigeli2_facialrec'@'localhost' to database 'attendance_system' in /home/ewigeli2/public_html/fr/includes/config.php:19
+Stack trace:
+#0 /home/ewigeli2/public_html/fr/includes/config.php(19): mysqli->__construct()
+#1 /home/ewigeli2/public_html/fr/index.php(4): require('/home/ewigeli2/...')
+#2 {main}
+  thrown in /home/ewigeli2/public_html/fr/includes/config.php on line 19
